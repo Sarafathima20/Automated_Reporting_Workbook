@@ -1,4 +1,3 @@
-# Automated_Reporting_Workbook
 # Automated Reporting Workbook – Excel Dashboard
 
 ## Project Overview
